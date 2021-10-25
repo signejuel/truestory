@@ -23,7 +23,7 @@ function multi_steps_form ()
     $content .= '<h3 id="headline-text">Hvad er dine interesser?</h3>';
     $content .= '<button type="button" id="nextBtn" onclick="nextPrev(1)">Musik</button>';
     $content .= '<button type="button" id="nextBtn" onclick="nextPrev(1)">Sport</button>';
-    $content .= '<button type="button" id="nextBtn" onclick="nextPrev(1)">Økonomi</button>';
+    $content .= '<button type="button" id="nextBtn" onclick="nextPrev(1)">Mad</button>';
     $content .= '<button type="button" id="nextBtn" onclick="nextPrev(1)">Psykologi</button>';
     $content .= '<button type="button" id="nextBtn" onclick="nextPrev(1)">Kemi</button>';
     
