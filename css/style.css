@@ -242,7 +242,7 @@ input {
 }
 
 input:focus {
-    background-color: #fff;
+    background-color: blue;
 }
 /* Mark input boxes that gets an error on validation: */
 input.invalid {
