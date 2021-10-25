@@ -25,7 +25,7 @@ function multi_steps_form ()
     $content .= '<button type="button" id="nextBtn" onclick="nextPrev(1)">Sport</button>';
     $content .= '<button type="button" id="nextBtn" onclick="nextPrev(1)">Mad</button>';
     $content .= '<button type="button" id="nextBtn" onclick="nextPrev(1)">Hoteller</button>';
-    $content .= '<button type="button" id="nextBtn" onclick="nextPrev(1)">Kemi</button>';
+    $content .= '<button type="button" id="nextBtn" onclick="nextPrev(1)">Action</button>';
     
     $content .= '</div>';
     
